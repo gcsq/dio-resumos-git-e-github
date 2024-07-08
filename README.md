@@ -9,9 +9,9 @@ do curso de Versionamento de Codigo com Git e Github
 - [Documentação Github](https://docs.github.com)
 
 ## 💻 Resumo das aulas
-| Aulas | Resumos |
+| Aulas | Resumo |
 |------|---------|
-| Gravando Alteraçoes no Repositorio Local| Resumo  ( )|
+| Gravando Alteraçoes no Repositorio Local| Resumo ( )|
 
 ```
 git init
