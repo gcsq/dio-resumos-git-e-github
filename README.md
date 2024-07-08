@@ -11,7 +11,8 @@ do curso de Versionamento de Codigo com Git e Github
 ## 💻 Resumo das aulas
 | Aulas | Resumo |
 |------|---------|
-| Gravando Alteraçoes no Repositorio Local| Resumo ( )|
+| Aula 1| Resumo ( )|
+| Aula 2| Resumo ( )|
 
 ```
 git init
